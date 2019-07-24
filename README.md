@@ -1,3 +1,3 @@
 # myKotlinRepo
 
-# Everything is go great in life
+# Everything is so great in life
